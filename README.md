@@ -1,4 +1,4 @@
-# 🧁 Bem-vindo ao Programa de Talentos CakeERP 2021!
+# 🧁 Bem-vindo ao Programa de Talentos 2021!
 
 <a href ="https://www.cakeerp.com" target="_blank"><img src="docs/logo-cakeerp.png"></a>
 
